@@ -11,7 +11,7 @@
   - Select a paper from the available corpus (see link given in the Slack team);
   - Select a presentation slot among those available at the end of this page;
   - Send a slack message to book a slot (students name and paper);
-  - Prepare a *7 minutes presentation* (hard limit) that contains the following elements:
+  - Prepare a *7 minutes presentation* (:alarm-clock: hard limit :alarm-clock:) that contains the following elements:
     - Context of the research;
     - Research challenge addressed by the authors;
     - Results obtained;
@@ -25,7 +25,7 @@
 
 ## Available slots
 
-We have 18 available slots, for _XX_ groups. _Be prepared_. No presentations is equivalent to fail the assignment (_i.e._, 0).
+We have 18 available slots, for _16_ groups. _Be prepared_.
 
   - Week 43:
     - 13:30 - 13h40:
@@ -50,3 +50,5 @@ We have 18 available slots, for _XX_ groups. _Be prepared_. No presentations is 
     - 14:00 - 14:10:
     - 14:10 - 14:20:
     - 14:20 - 14:30:
+
+Not giving a  presentation is equivalent to fail the assignment (_i.e._, 0/20).
