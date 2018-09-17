@@ -21,7 +21,8 @@
 Lectures are scheduled on Monday afternoon, from 1:30PM to 5:45PM.
 
   - Week 38:
-    - Service Oriented Architectures (:books:)
+    - [Intro to Service Oriented Architectures](./lectures/00_intro.pdf) (:books:)
+    - [Designing services](./lectures/01_services.pdf) (:books:)
     - _Service API Lab_ (:wrench:)
   - Week 39:
     - Integrating Services (:books:)
