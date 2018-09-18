@@ -31,7 +31,7 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
     - 13:30 - 13h40:
     - 13:40 - 13:50:
     - 13:50 - 14:00:
-    - 14:00 - 14:10:
+    - 14:00 - 14:10: Multi cloud deployment with containers (#48). Thomas Canava, Loic Gardaire, Johann Mortara.
     - 14:10 - 14:20:
     - 14:20 - 14:30:
 
