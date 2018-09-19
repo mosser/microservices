@@ -36,7 +36,7 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
     - 14:20 - 14:30:
 
   - Week 44:
-    - 13:30 - 13h40:
+    - 13:30 - 13h40: Microservices Approach for the Internet of Things (#30). Amandine Benza, Xavier Toutain, Damien Fornali.
     - 13:40 - 13:50:
     - 13:50 - 14:00:
     - 14:00 - 14:10:
