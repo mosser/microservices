@@ -30,7 +30,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
   - Week 43:
     - 13:30 - 13h40:
     - 13:40 - 13:50:
-    - 13:50 - 14:00:
+    - 13:50 - 14:00: _The database-is-the-service pattern for microservice architectures_ (#50).
+      - Nikita Rousseau, Joël Cancela-Vaz, Nassim Bounouas.
     - 14:00 - 14:10: _Multi cloud deployment with containers_ (#48). 
       - Thomas Canava, Loic Gardaire, Johann Mortara.
     - 14:10 - 14:20:
