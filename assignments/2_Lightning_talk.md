@@ -41,7 +41,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
   - Week 44:
     - 13:30 - 13h40: _Microservices Approach for the Internet of Things_ (#30). 
       - Amandine Benza, Xavier Toutain, Damien Fornali.
-    - 13:40 - 13:50:
+    - 13:40 - 13:50: _Incremental Integration of Microservices in Cloud Applications_ (#70)
+      - Renaud Costa, Alexis Deslandes, Elliot Kauffman.
     - 13:50 - 14:00: _Micro service cloud computing pattern for next generation networks_ (#49)
       - Enzo Dalla-Nora, Jérémy Lara, Sébastien Degand.
     - 14:00 - 14:10: _Emergent Software Services_ (#5)
