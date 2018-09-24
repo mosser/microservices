@@ -11,7 +11,7 @@
   - Select a paper from the available corpus (see link given in the Slack team);
   - Select a presentation slot among those available at the end of this page;
   - Send a slack message to book a slot (students name and paper);
-  - Prepare a *7 minutes presentation* (:alarm-clock: hard limit :alarm-clock:) that contains the following elements:
+  - Prepare a *7 minutes presentation* (:alarm_clock: hard limit :alarm_clock:) that contains the following elements:
     - Context of the research;
     - Research challenge addressed by the authors;
     - Results obtained;
@@ -58,4 +58,4 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
     - 14:10 - 14:20:
     - 14:20 - 14:30:
 
-Not giving a  presentation is equivalent to fail the assignment (_i.e._, 0/20).
+Not giving a  presentation is equivalent to a failure (_i.e._, 0/20).
