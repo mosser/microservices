@@ -17,6 +17,7 @@
     - Results obtained;
     - Threats to validity
     - Your analysis of the obtained result.
+  - Send by [email](mosser@i3s.unice.fr) your slides on the day preceding the talk.
 
 ## Advices:
 
@@ -33,13 +34,13 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Alexis Couvreur, Jérémy Junac, Julien Lemaire.
     - 13:50 - 14:00: _The database-is-the-service pattern for microservice architectures_ (#50).
       - Nikita Rousseau, Joël Cancela-Vaz, Nassim Bounouas.
-    - 14:00 - 14:10: _Multi cloud deployment with containers_ (#48). 
+    - 14:00 - 14:10: _Multi cloud deployment with containers_ (#48).
       - Thomas Canava, Loic Gardaire, Johann Mortara.
     - 14:10 - 14:20:
     - 14:20 - 14:30:
 
   - Week 44:
-    - 13:30 - 13h40: _Microservices Approach for the Internet of Things_ (#30). 
+    - 13:30 - 13h40: _Microservices Approach for the Internet of Things_ (#30).
       - Amandine Benza, Xavier Toutain, Damien Fornali.
     - 13:40 - 13:50: _Incremental Integration of Microservices in Cloud Applications_ (#70)
       - Renaud Costa, Alexis Deslandes, Elliot Kauffman.
@@ -47,7 +48,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Enzo Dalla-Nora, Jérémy Lara, Sébastien Degand.
     - 14:00 - 14:10: _Emergent Software Services_ (#5)
       - David Lang, Lucas Matteo, Alexandre Hiltcher.
-    - 14:10 - 14:20:
+    - 14:10 - 14:20: _CYCLOPS : A Micro Service based approach for dynamic Rating, Charging & Billing for cloud_ (#21)
+      - Alexandre Clement, Amri Haroun, Florian Lehmann.
     - 14:20 - 14:30:
 
   - Week 45:
