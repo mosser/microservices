@@ -17,7 +17,7 @@
     - Results obtained;
     - Threats to validity
     - Your analysis of the obtained result.
-  - Send by [email](mosser@i3s.unice.fr) your slides on the day preceding the talk.
+  - Send by [email](mosser@i3s.unice.fr) your slides as a PDF (named `paper_number.pdf`) on the day preceding the talk.
 
 ## Advices:
 
