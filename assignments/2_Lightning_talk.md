@@ -36,7 +36,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Nikita Rousseau, Joël Cancela-Vaz, Nassim Bounouas.
     - 14:00 - 14:10: _Multi cloud deployment with containers_ (#48).
       - Thomas Canava, Loic Gardaire, Johann Mortara.
-    - 14:10 - 14:20:
+    - 14:10 - 14:20: _Performance Evaluation of Microservices Architectures using Containers_ (#24)
+      - Tanguy Invernizzi, Pierre Rainero, Mohammed Chennouf.
     - 14:20 - 14:30:
 
   - Week 44:
