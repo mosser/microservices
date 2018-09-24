@@ -29,7 +29,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
 
   - Week 43:
     - 13:30 - 13h40:
-    - 13:40 - 13:50:
+    - 13:40 - 13:50: _The ENTICE approach to decompose monolithic services into microservices_ (#43)
+      - Alexis Couvreur, Jérémy Junac, Julien Lemaire.
     - 13:50 - 14:00: _The database-is-the-service pattern for microservice architectures_ (#50).
       - Nikita Rousseau, Joël Cancela-Vaz, Nassim Bounouas.
     - 14:00 - 14:10: _Multi cloud deployment with containers_ (#48). 
@@ -41,8 +42,10 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
     - 13:30 - 13h40: _Microservices Approach for the Internet of Things_ (#30). 
       - Amandine Benza, Xavier Toutain, Damien Fornali.
     - 13:40 - 13:50:
-    - 13:50 - 14:00:
-    - 14:00 - 14:10:
+    - 13:50 - 14:00: _Micro service cloud computing pattern for next generation networks_ (#49)
+      - Enzo Dalla-Nora, Jérémy Lara, Sébastien Degand.
+    - 14:00 - 14:10: _Emergent Software Services_ (#5)
+      - David Lang, Lucas Matteo, Alexandre Hiltcher.
     - 14:10 - 14:20:
     - 14:20 - 14:30:
 
