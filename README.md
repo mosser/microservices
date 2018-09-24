@@ -25,7 +25,7 @@ Lectures are scheduled on Monday afternoon, from 1:30PM to 5:45PM.
     - [Designing services](./lectures/01_services.pdf) (:books:)
     - _Service API Lab_ (:wrench:)
   - Week 39:
-    - Integrating Services (:books:)
+    - [Integrating Services](./lectures/02_esb.pdf) (:books:)
     - _Service API Lab_ (:wrench:)
   - Week 40:
     - Micro-services architecture (:books:)
