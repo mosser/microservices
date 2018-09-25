@@ -6,7 +6,6 @@ Grille à utiliser pour évaluer le rendu du 7 octobre 2018.
   - Dans une évaluation graduée: 
     - les valeurs `A` et `B` sont au dessus de la moyenne;
     - les valeurs `C` et `D` sont en dessous de la moyenne;
-    - Vous ne pouvez pas modérer vos notes avec des `+` ou des `-`;
     - la valeur `F` représente un échec (_Failure_), ou une absence d'information.
 
 ## Reproductibilité du déploiement
