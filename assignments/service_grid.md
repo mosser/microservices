@@ -43,7 +43,6 @@ Grille à utiliser pour évaluer le rendu du 7 octobre 2018.
      - [A, B, C, D] | F
  - Description d’alternatives dans les ≠ styles
      - [A, B, C, D] | F
-
  - **Optionnel (bonus)**: Test de charge des services déployés
      - [A, B, C, D] | F
 
