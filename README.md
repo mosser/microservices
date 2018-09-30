@@ -28,7 +28,14 @@ Lectures are scheduled on Monday afternoon, from 1:30PM to 5:45PM.
     - [Integrating Services](./lectures/02_esb.pdf) (:books:)
     - _Service API Lab_ (:wrench:)
   - Week 40:
-    - Micro-services architecture (:books:)
+    - [Micro-services architecture](./lectures/03_microservices.pdf) (:books:)
+    - Resources:
+      - [From Monlith to Microservices (AirBnB)](./lectures/resources/airbnb.pdf)
+      - [Domain-driven Design](./lectures/resources/ddd.pdf)
+      - [Developing Applications with a Micro-service architecture](./lectures/resources/developing.pdf)
+      - [Microservices Architectures](./lectures/resources/micro_arch.pdf)
+      - [Microservices Infrastructure](./lectures/resources/micro_infra.pdf)
+      - [a Pattern language for microservices](./lectures/resources/patterns.pdf)  
     - _Service API Lab_ (:wrench:)
   - Week 41:
     - Event-driven architecture (:books:)
