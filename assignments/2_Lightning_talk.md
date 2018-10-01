@@ -29,7 +29,8 @@
 We have 18 available slots, for _16_ groups. _Be prepared_.
 
   - Week 43:
-    - 13:30 - 13h40:
+    - 13:30 - 13h40: _Towards a Platform for User-Generated Mobile Services_ (#64)
+      - Aurelien Spinelli, Joanna Swiderska,  Andreina Wilhelm.
     - 13:40 - 13:50: _The ENTICE approach to decompose monolithic services into microservices_ (#43)
       - Alexis Couvreur, Jérémy Junac, Julien Lemaire.
     - 13:50 - 14:00: _The database-is-the-service pattern for microservice architectures_ (#50).
@@ -51,7 +52,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - David Lang, Lucas Matteo, Alexandre Hiltcher.
     - 14:10 - 14:20: _CYCLOPS : A Micro Service based approach for dynamic Rating, Charging & Billing for cloud_ (#21)
       - Alexandre Clement, Amri Haroun, Florian Lehmann.
-    - 14:20 - 14:30:
+    - 14:20 - 14:30: _Service cutter: A systematic approach to service decomposition_ (#51)
+      - Guillaume André, Marc Jourdes,  JA Puskaric.
 
   - Week 45:
     - 13:30 - 13h40:
