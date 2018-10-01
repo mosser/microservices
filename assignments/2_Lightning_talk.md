@@ -39,7 +39,7 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Thomas Canava, Loic Gardaire, Johann Mortara.
     - 14:10 - 14:20: _Performance Evaluation of Microservices Architectures using Containers_ (#24)
       - Tanguy Invernizzi, Pierre Rainero, Mohammed Chennouf.
-    - 14:20 - 14:30:
+    - ~14:20 - 14:30~:
 
   - Week 44:
     - 13:30 - 13h40: _Microservices Approach for the Internet of Things_ (#30).
@@ -60,7 +60,7 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
     - 13:40 - 13:50:
     - 13:50 - 14:00:
     - 14:00 - 14:10:
-    - 14:10 - 14:20:
-    - 14:20 - 14:30:
+    - ~14:10 - 14:20~:
+    - ~14:20 - 14:30~:
 
 Not giving a  presentation is equivalent to a failure (_i.e._, 0/20).
