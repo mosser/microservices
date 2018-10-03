@@ -56,7 +56,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Guillaume André, Marc Jourdes,  JA Puskaric.
 
   - Week 45:
-    - 13:30 - 13h40:
+    - 13:30 - 13h40: _Service-Oriented Robotic Swarm Systems: Model and Structuring Algorithms_ (#10)
+      - Duminy, Meersman, Picard Marchetto.
     - 13:40 - 13:50:
     - 13:50 - 14:00:
     - 14:00 - 14:10:
