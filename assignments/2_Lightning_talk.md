@@ -58,7 +58,8 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
   - Week 45:
     - 13:30 - 13h40: _Service-Oriented Robotic Swarm Systems: Model and Structuring Algorithms_ (#10)
       - Duminy, Meersman, Picard Marchetto.
-    - 13:40 - 13:50:
+    - 13:40 - 13:50: _Container and Microservice Driven Design for Cloud Infrastructure DevOps_ (#12)
+      - DZIRI Aghiles, HUANG Shiyang
     - 13:50 - 14:00:
     - 14:00 - 14:10:
     - ~14:10 - 14:20~:
