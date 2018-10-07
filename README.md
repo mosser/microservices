@@ -38,7 +38,9 @@ Lectures are scheduled on Monday afternoon, from 1:30PM to 5:45PM.
       - [a Pattern language for microservices](./lectures/resources/patterns.pdf)  
     - _Service API Lab_ (:wrench:)
   - Week 41:
-    - Event-driven architecture (:books:)
+    - [Event-driven architecture](./lectures/04_microservices_EDA.pdf) (:books:)
+    - Resources:
+      - [Building Event-driven micro services with Kafka Ecosystem](./lectures/resources/kafka.pdf) 
     - _Project_ (:wrench:)
   - Week 42:
     - _Project_ (unsupervised)
