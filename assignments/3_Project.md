@@ -52,7 +52,7 @@ _The P.O. is still working on the backlog. Stay updated, new requirements (stori
 New personna: Terry, restaurant owner.
 
   - As Jordan, I want the customers to be able to review the meals so that I can improve them according to their feedback;
-  - As a customer (Gail, Brook, Erin), I want to track the geolocation of the coursier in real time, so that I can anticipate when I will eat.
+  - As a customer (Gail, Erin), I want to track the geolocation of the coursier in real time, so that I can anticipate when I will eat.
   - As Terry, I want to get some statistics (speed, cost) about global delivery time and delivery per coursier.
 
 
