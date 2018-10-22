@@ -17,11 +17,20 @@ A public github project (no invitation, should be publicly cloneable). Your proj
     - Load dependencies, Compile (if necessary)
   - `the_project $ docker-compose up -d`
     - build the local images and then start the system on localhost
+    - consider using Docker conventions to tag your images with an unique `id`
   - `the_project $ ./run.sh`
     - Run the acceptance scenarios associated to your API.
+    - Be sure that your project run on a clean machine
+    - Pro Tip: a good `run.sh` should _show_ what's happening during the run (_e.g._, step by steps, printing valuable.  exchanged messages, information messages) 
   - `the_project $ ./load.sh`
-    - Run a load test for your system.  
-  - A PDF file describing the architecture and the design choices 
+    - Run a load test for your system. (*mandatory*)
+  - A PDF file named `final.pdf` describing the architecture and the design choices:
+    - Use schemas when relevant
+    - How the user stories relate to the designed services (_e.g._, who talks to who, sequence diagrams for valuable interactions)
+    - Emphasise _design_ choices instead of _technical_ choices;
+    - Role of the message bus in the architecture (_e.g._, scalability, exchanged messages)
+    - in summary, please do read the [previous feedback](https://docs.google.com/document/d/1lLpt8qO8Bsh1pAso9tS8qdqQrqNRAuiZoQIywAyMFuM/edit?usp=sharing) to avoid classical mistakes.
+
 
 
 
