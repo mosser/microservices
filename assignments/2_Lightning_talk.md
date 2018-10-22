@@ -30,15 +30,15 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
 
   - Week 43:
     - 13:30 - 13h40: _Towards a Platform for User-Generated Mobile Services_ (#64)
-      - Aurelien Spinelli, Joanna Swiderska,  Andreina Wilhelm.
+      - Aurelien Spinelli, Joanna Swiderska,  Andreina Wilhelm. [(slides)](./2_slides/64.pdf)
     - 13:40 - 13:50: _The ENTICE approach to decompose monolithic services into microservices_ (#43)
-      - Alexis Couvreur, Jérémy Junac, Julien Lemaire.
+      - Alexis Couvreur, Jérémy Junac, Julien Lemaire. [(slides)](./2_slides/43.pdf)
     - 13:50 - 14:00: _The database-is-the-service pattern for microservice architectures_ (#50).
-      - Nikita Rousseau, Joël Cancela-Vaz, Nassim Bounouas.
+      - Nikita Rousseau, Joël Cancela-Vaz, Nassim Bounouas. [(slides)](./2_slides/50.pdf)
     - 14:00 - 14:10: _Multi cloud deployment with containers_ (#48).
-      - Thomas Canava, Loic Gardaire, Johann Mortara.
+      - Thomas Canava, Loic Gardaire, Johann Mortara. [(slides)](./2_slides/48.pdf)
     - 14:10 - 14:20: _Performance Evaluation of Microservices Architectures using Containers_ (#24)
-      - Tanguy Invernizzi, Pierre Rainero, Mohammed Chennouf.
+      - Tanguy Invernizzi, Pierre Rainero, Mohammed Chennouf. [(slides)](./2_slides/24.pdf)
     - ~14:20 - 14:30~:
 
   - Week 44:
