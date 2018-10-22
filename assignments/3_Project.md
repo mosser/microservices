@@ -47,7 +47,16 @@ _The P.O. is still working on the backlog. Stay updated, new requirements (stori
   - As Jamie, I want to know the orders that will have to be delivered around me, so that I can choose one and go to the restaurant to begin the course.
   - As Jamie, I want to notify that the order has been delivered, so that my account can be credited and the restaurant can be informed.
 
-  
+### Week 43: First evolution
+
+New personna: Terry, restaurant owner.
+
+  - As Jordan, I want the customers to be able to review the meals so that I can improve them according to their feedback;
+  - As a customer (Gail, Brook, Erin), I want to track the geolocation of the coursier in real time, so that I can anticipate when I will eat.
+  - As Terry, I want to get some statistics (speed, cost) about global delivery time and delivery per coursier.
+
+
+
 
 
 
