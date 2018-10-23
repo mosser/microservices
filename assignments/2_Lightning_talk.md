@@ -48,11 +48,9 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Renaud Costa, Alexis Deslandes, Elliot Kauffman.
     - 13:50 - 14:00: _Micro service cloud computing pattern for next generation networks_ (#49)
       - Enzo Dalla-Nora, Jérémy Lara, Sébastien Degand.
-    - 14:00 - 14:10: _Emergent Software Services_ (#5)
-      - David Lang, Lucas Matteo, Alexandre Hiltcher.
-    - 14:10 - 14:20: _CYCLOPS : A Micro Service based approach for dynamic Rating, Charging & Billing for cloud_ (#21)
+    - 14:00 - 14:10: _CYCLOPS : A Micro Service based approach for dynamic Rating, Charging & Billing for cloud_ (#21)
       - Alexandre Clement, Amri Haroun, Florian Lehmann.
-    - 14:20 - 14:30: _Service cutter: A systematic approach to service decomposition_ (#51)
+    - 14:10 - 14:20: _Service cutter: A systematic approach to service decomposition_ (#51)
       - Guillaume André, Marc Jourdes,  JA Puskaric.
 
   - Week 45:
@@ -60,9 +58,10 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
       - Duminy, Meersman, Picard Marchetto.
     - 13:40 - 13:50: _Container and Microservice Driven Design for Cloud Infrastructure DevOps_ (#12)
       - DZIRI Aghiles, HUANG Shiyang
-    - 13:50 - 14:00:
+    - 13:50 - 14:00: _Emergent Software Services_ (#5)
+      - David Lang, Lucas Matteo, Alexandre Hiltcher.
     - 14:00 - 14:10:
-    - ~14:10 - 14:20~:
+    - 14:10 - 14:20:
     - ~14:20 - 14:30~:
 
 Not giving a  presentation is equivalent to a failure (_i.e._, 0/20).
