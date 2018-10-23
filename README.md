@@ -48,6 +48,7 @@ Lectures are scheduled on Monday afternoon, from 1:30PM to 5:45PM.
     - _Lightning talk_ (:mag:)
     - _Project_ (:wrench:)
   - Week 44:
+    - Load testing (:books:)
     - _Lightning talk_ (:mag:)
     - _Project_ (:wrench:)
   - Week 45:
