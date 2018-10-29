@@ -43,16 +43,17 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
 
   - Week 44:
     - 13:30 - 13h40: _Microservices Approach for the Internet of Things_ (#30).
-      - Amandine Benza, Xavier Toutain, Damien Fornali.
+      - Amandine Benza, Xavier Toutain, Damien Fornali. [(slides)](./2_slides/30.pdf)
     - 13:40 - 13:50: _Incremental Integration of Microservices in Cloud Applications_ (#70)
-      - Renaud Costa, Alexis Deslandes, Elliot Kauffman.
+      - Renaud Costa, Alexis Deslandes, Elliot Kauffman. [(slides)](./2_slides/70.pdf)
     - 13:50 - 14:00: _Micro service cloud computing pattern for next generation networks_ (#49)
-      - Enzo Dalla-Nora, Jérémy Lara, Sébastien Degand.
+      - Enzo Dalla-Nora, Jérémy Lara, Sébastien Degand. [(slides)](./2_slides/49.pdf)
     - 14:00 - 14:10: _CYCLOPS : A Micro Service based approach for dynamic Rating, Charging & Billing for cloud_ (#21)
-      - Alexandre Clement, Amri Haroun, Florian Lehmann.
+      - Alexandre Clement, Amri Haroun, Florian Lehmann. [(slides)](./2_slides/21.pdf)
     - 14:10 - 14:20: _Service cutter: A systematic approach to service decomposition_ (#51)
-      - Guillaume André, Marc Jourdes,  JA Puskaric.
-
+      - Guillaume André, Marc Jourdes,  JA Puskaric. [(slides)](./2_slides/51.pdf)
+    - ~14:20 - 14:30~:
+    
   - Week 45:
     - 13:30 - 13h40: _Service-Oriented Robotic Swarm Systems: Model and Structuring Algorithms_ (#10)
       - Duminy, Meersman, Picard Marchetto.
