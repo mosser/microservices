@@ -63,6 +63,11 @@ New personna: Terry, restaurant owner.
   - As Jordan, I want the customers to be able to review the meals so that I can improve them according to their feedback;
   - As a customer (Gail, Erin), I want to track the geolocation of the coursier in real time, so that I can anticipate when I will eat.
   - As Terry, I want to get some statistics (speed, cost) about global delivery time and delivery per coursier.
+  
+### Week 44: Second evolution
+
+  - As Terry, I can emit a promotional code so that I can attract more customer to my restaurant. 
+  - As Jamie, I want to inform quickly that I can't terminate the course (accident, sick), so that the order can be replaced.
 
 
 
