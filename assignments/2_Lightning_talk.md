@@ -8,7 +8,8 @@
 ## Logistics:
 
   - Build a group of _3_ students (different from your project group).
-  - Select a paper from the available corpus (see link given in the Slack team);
+  - Select a paper from the [available corpus](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsKaCkb5jTf88QcgjIQXpiR7h1RnAKS7wrHMdhSfYTUjFIU1tr8uM3BjEmMuzXBYUmjCyBDAGqPuQe/pubhtml?gid=0&single=true) (_Research on Architecting Microservices: Trends,
+Focus, and Potential for Industrial Adoption_, di Franscesco _et al._, ICSA 2017);
   - Select a presentation slot among those available at the end of this page;
   - Send a slack message to book a slot (students name and paper);
   - Prepare a *7 minutes presentation* (:alarm_clock: hard limit :alarm_clock:) that contains the following elements:
