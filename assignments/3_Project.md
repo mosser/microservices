@@ -71,6 +71,11 @@ New personna: Terry, restaurant owner.
 
 
 
+### Week 45: Last evolution
+
+  - As Terry, I can emit a promotional code based on my menu contents (e.g., 10% discout for an entry-main course-dessert order), so that I can sell more expensive orders.
+  - As Gail or Erin, I can follow the position of Jamie in real time, so that the food ETA can be updated automatically.
+
 
 
 
