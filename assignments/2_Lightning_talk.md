@@ -56,13 +56,15 @@ We have 18 available slots, for _16_ groups. _Be prepared_.
     
   - Week 45:
     - 13:30 - 13h40: _Service-Oriented Robotic Swarm Systems: Model and Structuring Algorithms_ (#10)
-      - Duminy, Meersman, Picard Marchetto.
+      - Duminy, Meersman, Picard Marchetto. [(slides)](./2_slides/10.pdf)
     - 13:40 - 13:50: _Container and Microservice Driven Design for Cloud Infrastructure DevOps_ (#12)
-      - DZIRI Aghiles, HUANG Shiyang
+      - DZIRI Aghiles, HUANG Shiyang. [(slides)](./2_slides/12.pdf)
     - 13:50 - 14:00: _Emergent Software Services_ (#5)
-      - David Lang, Lucas Matteo, Alexandre Hiltcher.
-    - 14:00 - 14:10:
-    - 14:10 - 14:20:
+      - David Lang, Lucas Matteo, Alexandre Hiltcher. [(slides)](./2_slides/05.pdf)
+    - 14:00 - 14:10: _Gru: an Approach to Introduce Decentralized Autonomic Behavior in Microservices Architectures_ (#26)
+      - Doryan Bonifassi, François Melkonian, Florian Bourniquel. [(slides)](./2_slides/26.pdf)
+    - 14:10 - 14:20: _Towards a Technique for Extracting Microservices from Monolithic Enterprise Systems_ (#71)
+      - Zineb El Houari, David Niokhor Sene. [(slides)](./2_slides/71.pdf)
     - ~14:20 - 14:30~:
 
 Not giving a  presentation is equivalent to a failure (_i.e._, 0/20).
