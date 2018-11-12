@@ -13,6 +13,7 @@ The final exam is composed of three parts:
 
 Exams are written in French. Students can answer in French or in English according to their preferences, but have to use the same language for the whole assignment.
 
+  - [2018](../exams/2018_SOA.pdf)
   - [2017](../exams/2017_SOA.pdf)
   - [2016](../exams/2016_SOA.pdf)
   - [2015](../exams/2015_SOA.pdf)
