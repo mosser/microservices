@@ -17,11 +17,20 @@ A public github project (no invitation, should be publicly cloneable). Your proj
     - Load dependencies, Compile (if necessary)
   - `the_project $ docker-compose up -d`
     - build the local images and then start the system on localhost
+    - consider using Docker conventions to tag your images with an unique `id`
   - `the_project $ ./run.sh`
     - Run the acceptance scenarios associated to your API.
+    - Be sure that your project run on a clean machine
+    - Pro Tip: a good `run.sh` should _show_ what's happening during the run (_e.g._, step by steps, printing valuable.  exchanged messages, information messages) 
   - `the_project $ ./load.sh`
-    - Run a load test for your system.  
-  - A PDF file describing the architecture and the design choices 
+    - Run a load test for your system. (*mandatory*)
+  - A PDF file named `final.pdf` describing the architecture and the design choices:
+    - Use schemas when relevant
+    - How the user stories relate to the designed services (_e.g._, who talks to who, sequence diagrams for valuable interactions)
+    - Emphasise _design_ choices instead of _technical_ choices;
+    - Role of the message bus in the architecture (_e.g._, scalability, exchanged messages)
+    - in summary, please do read the [previous feedback](https://docs.google.com/document/d/1lLpt8qO8Bsh1pAso9tS8qdqQrqNRAuiZoQIywAyMFuM/edit?usp=sharing) to avoid classical mistakes.
+
 
 
 
@@ -47,7 +56,26 @@ _The P.O. is still working on the backlog. Stay updated, new requirements (stori
   - As Jamie, I want to know the orders that will have to be delivered around me, so that I can choose one and go to the restaurant to begin the course.
   - As Jamie, I want to notify that the order has been delivered, so that my account can be credited and the restaurant can be informed.
 
+### Week 43: First evolution
+
+New personna: Terry, restaurant owner.
+
+  - As Jordan, I want the customers to be able to review the meals so that I can improve them according to their feedback;
+  - As a customer (Gail, Erin), I want to track the geolocation of the coursier in real time, so that I can anticipate when I will eat.
+  - As Terry, I want to get some statistics (speed, cost) about global delivery time and delivery per coursier.
   
+### Week 44: Second evolution
+
+  - As Terry, I can emit a promotional code so that I can attract more customer to my restaurant. 
+  - As Jamie, I want to inform quickly that I can't terminate the course (accident, sick), so that the order can be replaced.
+
+
+
+### Week 45: Last evolution
+
+  - As Terry, I can emit a promotional code based on my menu contents (e.g., 10% discout for an entry-main course-dessert order), so that I can sell more expensive orders.
+  - As Gail or Erin, I can follow the position of Jamie in real time, so that the food ETA can be updated automatically.
+
 
 
 
