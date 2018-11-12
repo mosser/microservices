@@ -16,6 +16,7 @@
 ## Kafka (Message broker)
 
   * Introduction to Kafka: https://kafka.apache.org/intro
+  * Best practices: https://blog.newrelic.com/engineering/kafka-best-practices/
   * Kafka Official Documentation:
     * https://kafka.apache.org/20/javadoc/index.html?org/apache/kafka/clients/producer/KafkaProducer.html
     * https://kafka.apache.org/20/javadoc/index.html?org/apache/kafka/clients/consumer/KafkaConsumer.html
